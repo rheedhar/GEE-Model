@@ -1,2 +1,2 @@
 # GEE-Model
-Create a GEE Model in SAS with a Poission distribution
+Create a Generalized Estimating Equations Model with a log link response (Poisson) in SAS
